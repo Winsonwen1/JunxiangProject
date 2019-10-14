@@ -1,0 +1,19 @@
+
+dir
+ls
+environ
+
+echo put data into hello.txt file> hello.txt
+echo put data into hello.txt file>> hello.txt
+
+ls -l | wc -l
+
+ls>>hello.txt
+echo ===================================================================
+echo  hello:
+echo hi,	 how 	 are u
+echo open hello file and check, it's same?
+cat hello.txt | sort > output
+cat output
+
+quit
