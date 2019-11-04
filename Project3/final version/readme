@@ -1,0 +1,14 @@
+/*
+ * Project 3: Networked Spell Checker
+ *
+ *  Last Edit: Nov 3, 2019
+ *  Author: Junxiang Wen
+ */
+ 
+ Project Overview
+Spell checkers are useful utility programs often bundled with text editors. In this
+project, you'll create a networked spell check server. The purpose of the
+project is to gain some exposure and practical experience with multi-threaded
+programming and the synchronization problems that go along with it, as well as with
+writing programs that communicate across networks.
+
